@@ -36,5 +36,5 @@ while not game_is_done :
         if "_" not in display :
             print("Gongrats , you saved the man. ")
             game_is_done = True 
-        print(Hangman_art.stages[lives])
+    print(Hangman_art.stages[lives])
 
