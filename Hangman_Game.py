@@ -38,4 +38,4 @@ while not game_is_done :
             game_is_done = True 
         print(Hangman_art.stages[lives])
 
- clear()
+clear()
