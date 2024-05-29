@@ -17,7 +17,7 @@ lives = 6
 game_is_done = False 
 while not game_is_done :
     guess = input("Guess a letter : ").lower()
-
+    clear()
     if guess in guessed_letters :
         print("You had chosen this letter before.")
     else:
@@ -38,4 +38,3 @@ while not game_is_done :
             game_is_done = True 
         print(Hangman_art.stages[lives])
 
-clear()
