@@ -1,4 +1,4 @@
-# Hangman-Game
+# Hangman Game
 Challenge your mind with playing Hangman 💭
 
 Hangman is a classic word guessing game in which one player thinks of a word and the other player tries to guess it by suggesting letters one at a time. The player has a limited number of incorrect guesses before they lose the game.
